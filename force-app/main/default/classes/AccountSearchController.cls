@@ -15,6 +15,7 @@ public with sharing class AccountSearchController {
             ];
             accounts = searchResults[0];
         }
+        //this is a comment
         return accounts;
     }
 }
