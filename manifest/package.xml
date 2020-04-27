@@ -4,5 +4,5 @@
         <members>AccountSearchController</members>
         <name>ApexClass</name>
     </types>
-    <version>44.0</version>
+    <version>47.0</version>
 </Package>
